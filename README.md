@@ -15,5 +15,3 @@ https://www.linkedin.com/in/sachin-verma-3ba2631a6/
 website :
 https://sachin6393.github.io/payment_gateway/index.html
 
-youtube link:
-https://youtu.be/BgIP6zKsV20
